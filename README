@@ -1,0 +1,21 @@
+# [Alexa Rank Bosster](https://bilalmizrakci.com)
+
+# How Use it ?!
+
+
+
+## Linux
+```sh
+cd $HOME
+https://github.com/hatasiztofas/bilalmizrakci.git
+cd vss
+python alexa.py https://yourwebsite.com PRoxy_List.txt
+```
+
+## Windows
+
+
+
+# [Contact me on instagram](https://www.instagram.com/bilalmizrakci/)
+
+## GoodLuck <3
